@@ -1,6 +1,6 @@
 import numpy as np
 from OpenGL.GL import *
-from PyQt6.QtCore import QFile, QIODevice, QJsonDocument, QJsonValue, Qt
+from PyQt6.QtCore import QFile, QIODevice, QJsonDocument, Qt
 from PyQt6.QtGui import QImage, QMatrix4x4, QSurfaceFormat, QVector3D
 from PyQt6.QtOpenGL import (QOpenGLBuffer, QOpenGLShader, QOpenGLShaderProgram,
                             QOpenGLTexture, QOpenGLWindow)
